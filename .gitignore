@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# dynamic folders
+/coverage
+/build
+
+# environments
+staging.env
+production.env
+
+# firebase
+firestore.indexes.json
+firestore.rules
+storage.rules
+.firebase
+.firebaserc
